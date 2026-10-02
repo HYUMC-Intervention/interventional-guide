@@ -1,0 +1,19 @@
+GitHub 업로드 구조
+
+index.html
+tfca.mp4
+images/
+  neuro.jpg
+  visceral.jpg
+  respiratory.jpg
+  msk.jpg
+  tfca.jpg
+  cas-guide.jpg
+  cas-before.jpg
+  cas-after.jpg
+  ptgbd.jpg
+  pcn.jpg
+  (legacy 파일이 있으면 함께 업로드)
+
+중요: ZIP 자체를 GitHub에 올리는 것이 아니라 압축을 푼 뒤 위 구조 그대로 업로드하세요.
+기존 index.html과 tfca.mp4는 새 파일로 교체하고 images 폴더도 함께 올리세요.
